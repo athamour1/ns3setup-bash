@@ -13,5 +13,5 @@ wget http://www.nsnam.org/release/ns-allinone-3.30.tar.bz2
 tar xjf ns-allinone-3.30.tar.bz2
 cd ..
 cd ns3/ns-3-allinone
-./dowload.py
+./download.py
 ./build.py
