@@ -6,7 +6,7 @@ mkdir ns3
 cd ns3
 git clone https://gitlab.com/nsnam/ns-3-allinone.git
 ./download.py -n ns-3.30
-cd..
+cd ..
 mkdir tarballs
 cd tarballs
 wget http://www.nsnam.org/release/ns-allinone-3.30.tar.bz2
