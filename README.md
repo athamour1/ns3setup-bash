@@ -1,5 +1,5 @@
-[![Python](https://img.shields.io/badge/NS3-30-green)](https://www.nsnam.org/releases/ns-3-30/)   
-![Image of NS3 Logo](https://scontent.fath3-4.fna.fbcdn.net/v/t1.0-9/16427615_1328936430507484_4814969421583230426_n.png?_nc_cat=107&_nc_sid=6e5ad9&_nc_ohc=cjH2hLJSh4MAX-op84K&_nc_ht=scontent.fath3-4.fna&oh=7202b8017eea77599a4b6e9770a00efa&oe=5E8E2AF5)
+[![Python](https://img.shields.io/badge/NS--3-30-green)](https://www.nsnam.org/releases/ns-3-30/)   
+
 # Ένα Bash για εύκολη εγκατάσταση του NS3
 
 Φτιάχτηκε με σκοπό την εγκατάσταση του NS3 με μια εντολή, για το μάθημα των ασύρματων δικτύων του ΤΕΙ Δυτικής Μακεδονίας του τμήματος πληροφορικής στην Καστοριά
