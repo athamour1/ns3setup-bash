@@ -1,10 +1,9 @@
 [![Python](https://img.shields.io/badge/NS--3-30-green)](https://www.nsnam.org/releases/ns-3-30/) 
 [![LINUX](https://img.shields.io/badge/ubuntu-18.04-orange)](https://ubuntu.com/download/desktop)
 
-# Ένα Bash για εύκολη εγκατάσταση του NS-3
+# NS-3.30 Bash
 
-Φτιάχτηκε με σκοπό την εγκατάσταση του NS-3 με μια εντολή, για το μάθημα των ασύρματων δικτύων του Τμήματος Πληροφορικής
-της Σχολής Θετικών Επιστημών του Πανεπιστήμιο Δυτικής Μακεδονίας.
+Το παρών αρχείο bash δημιουργήθηκε με σκοπό την εύκολη εγκατάσταση του NS3 σε περιβάλλον Ubuntu για χρήση στο μάθημα των Ασύρματων Κινητών Επικοινωνιών του τμήματος Πληροφορικής του Πανεπιστημίου Δυτικής Μακεδονίας. Η παρούσα ενέργεια έγινε στα πλαίσια ενασχόλησης μας με το Linux Team του IEEE SB Kastoria.
 
 ## Installation
 
@@ -111,3 +110,7 @@ $ ./ns3setup.sh
 - uml-utilities 
 - libboost-signals-dev 
 - libboost-filesystem-dev
+
+# Πηγές
+
+1 https://www.nsnam.org/wiki/Installation
