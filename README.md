@@ -29,9 +29,9 @@ $ ./ns3setup.sh
     |       ├── dist.py
     |       ├── download.py
     |       ├── netanim
-    |       |   └── <b>NetAnim</b>
+    |       |   └── NetAnim
     |       ├── ns-3-dev
-    |       |   └── <b>waf</b>
+    |       |   └── waf
     |       ├── pybindgen
     |       └── util.py
     └── tarballs
