@@ -17,6 +17,25 @@ $ ./ns3setup.sh
 ```
 
 ## Δομή εγκατάστασης
+.
+└── ns3
+    │   └── ns-3-allinone
+    |       ├── README
+    |       ├── __pycache__
+    |       ├── bake
+    |       ├── build.py
+    |       ├── constants.py
+    |       ├── dist.py
+    |       ├── download.py
+    |       ├── netanim
+    |       |   └── NetAnim
+    |       ├── ns-3-dev
+    |       |   └── waf
+    |       ├── pybindgen
+    |       └── util.py
+    └── tarballs
+        └──ns-allinone-3.30
+940 directories, 9847 files
 
 ## Πακέτα που εγκαταστούνται
 - gcc
