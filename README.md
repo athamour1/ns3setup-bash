@@ -37,6 +37,7 @@ $ ./ns3setup.sh
     |       └── util.py
     └── tarballs
         └──ns-allinone-3.30
+        
 940 directories, 9847 files
 ```
 
