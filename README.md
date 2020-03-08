@@ -10,7 +10,7 @@
 ```bash
 $ git clone https://github.com/papayoda/ns3setup-bash.git
 $ cd ns3setup-bash
-$ sudo chmod 777 ./ns3setup.sh
+$ sudo chmod 777 ns3setup.sh
 $ ./ns3setup.sh
 ```
 
