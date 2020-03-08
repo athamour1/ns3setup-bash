@@ -1,4 +1,5 @@
-[![Python](https://img.shields.io/badge/NS--3-30-green)](https://www.nsnam.org/releases/ns-3-30/)   
+[![Python](https://img.shields.io/badge/NS--3-30-green)](https://www.nsnam.org/releases/ns-3-30/) 
+[![LINUX](https://img.shields.io/badge/ubuntu-18.04-orange)](https://ubuntu.com/download/desktop)
 
 # Ένα Bash για εύκολη εγκατάσταση του NS3
 
