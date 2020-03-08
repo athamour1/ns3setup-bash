@@ -15,3 +15,5 @@ cd ..
 cd ns3/ns-3-allinone
 ./download.py
 ./build.py
+cd ../..
+sudo rm -Rf ns3setup-bash
