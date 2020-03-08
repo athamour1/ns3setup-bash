@@ -13,6 +13,7 @@ mkdir tarballs
 cd tarballs
 wget http://www.nsnam.org/release/ns-allinone-3.30.tar.bz2
 tar xjf ns-allinone-3.30.tar.bz2
+rm ns-allinone-3.30.tar.bz2
 cd ..
 cd ns3/ns-3-allinone
 ./download.py
