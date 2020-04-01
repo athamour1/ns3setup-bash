@@ -7,16 +7,9 @@ cd ..
 mkdir ns3 
 cd ns3
 git clone https://gitlab.com/nsnam/ns-3-allinone.git
+cd ns-3-allinone
 ./download.py -n ns-3.30
-cd ..
-mkdir tarballs
-cd tarballs
-wget http://www.nsnam.org/release/ns-allinone-3.30.tar.bz2
-tar xjf ns-allinone-3.30.tar.bz2
-rm ns-allinone-3.30.tar.bz2
-cd ..
-cd ns3/ns-3-allinone
-./download.py
 ./build.py
 cd ../..
 sudo rm -Rf ns3setup-bash
+ls  
