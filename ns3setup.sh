@@ -12,6 +12,5 @@ cd ns-allinone-3.30
 ./build.py
 cd ..
 rm -Rf ns-allinone-3.30.tar.bz2
-cd ..
 rm -Rf ns3setup-bash
 HERE
