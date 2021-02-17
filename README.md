@@ -10,10 +10,10 @@
 Επιλέγουμε που θέλουμε να εγκαταστήσουμε το NS3 και σε αυτό το Directory τρέχουμε τις παρακάτω εντολές :
 
 ```bash
-$ git clone https://github.com/papayoda/ns3setup-bash.git
-$ cd ns3setup-bash
-$ sudo chmod 777 ns3setup.sh
-$ ./ns3setup.sh
+git clone https://github.com/papayoda/ns3setup-bash.git
+cd ns3setup-bash
+sudo chmod 777 ns3setup.sh
+./ns3setup.sh
 ```
 
 ## Δομή εγκατάστασης
@@ -28,9 +28,9 @@ $ ./ns3setup.sh
     ├── constants.py
     ├── dist.py
     ├── download.py
-    ├── netanim
+    ├── netanim-3.108
     |   └── NetAnim
-    ├── ns-3-dev
+    ├── ns-3.30.1
     |   └── waf
     ├── pybindgen
     └── util.py
