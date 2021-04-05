@@ -15,7 +15,7 @@ cd ns3setup-bash
 sudo chmod 777 ns3setup.sh
 ./ns3setup.sh
 ```
-[![asciicast](https://asciinema.org/a/405245.png)](https://asciinema.org/a/405245=250x)
+[![asciicast](https://asciinema.org/a/405245.png)](https://asciinema.org/a/405245)
 
 ## NetAnim στο WSL
 Χρειάζετε να είναι εγκατεστημένο το [vcxsrv](https://sourceforge.net/projects/vcxsrv/) και να τρέχει στο tray.
