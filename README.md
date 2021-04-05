@@ -16,6 +16,13 @@ sudo chmod 777 ns3setup.sh
 ./ns3setup.sh
 ```
 
+## NetAnim στο WSL
+Χρειάζετε να είναι εγκατεστημένο το [vcxsrv](https://sourceforge.net/projects/vcxsrv/) και να τρέχει στο tray.
+```bash
+cd netanim-3.108
+./NetAnim
+```
+
 ## Δομή εγκατάστασης
 ```
 .
