@@ -2,7 +2,7 @@
 # ns3 script
 
 sudo apt update && sudo apt upgrade -y
-sudo apt install build-essential wget cmake mercurial qt5-default -y
+sudo apt install gedit build-essential wget cmake mercurial qt5-default -y
 wget https://www.nsnam.org/releases/ns-allinone-3.30.1.tar.bz2
 tar -xf ns-allinone-3.30.1.tar.bz2
 cd ns-allinone-3.30.1
