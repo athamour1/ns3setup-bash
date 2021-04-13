@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/NS--3-30-green)](https://www.nsnam.org/releases/ns-3-30/) 
 [![LINUX](https://img.shields.io/badge/ubuntu-18.04-orange)](https://ubuntu.com/download/desktop)
 
-# NS-3.33 Bash
+# NS-3.30.1 Bash
 
 Το παρών αρχείο bash δημιουργήθηκε με σκοπό την εύκολη εγκατάσταση του NS3 σε περιβάλλον Ubuntu για χρήση στο μάθημα των Ασύρματων Κινητών Επικοινωνιών του τμήματος Πληροφορικής του Πανεπιστημίου Δυτικής Μακεδονίας. Η παρούσα ενέργεια έγινε στα πλαίσια ενασχόλησης μας με το [Kastoria Linux Team](https://www.facebook.com/Kastoria-Linux-Society-224822844196119/).
 
@@ -38,7 +38,7 @@ cd netanim-3.108
     ├── download.py
     ├── netanim-3.108
     |   └── NetAnim
-    ├── ns-3.33
+    ├── ns-3.30.1
     |   └── waf
     ├── pybindgen
     └── util.py
