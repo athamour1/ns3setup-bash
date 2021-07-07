@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/NS--3-30-green)](https://www.nsnam.org/releases/ns-3-30/) 
 [![LINUX](https://img.shields.io/badge/ubuntu-18.04-orange)](https://ubuntu.com/download/desktop)
 
-# NS-3.30 Bash
+# NS-3.30.1 Bash
 
 Το παρών αρχείο bash δημιουργήθηκε με σκοπό την εύκολη εγκατάσταση του NS3 σε περιβάλλον Ubuntu για χρήση στο μάθημα των Ασύρματων Κινητών Επικοινωνιών του τμήματος Πληροφορικής του Πανεπιστημίου Δυτικής Μακεδονίας. Η παρούσα ενέργεια έγινε στα πλαίσια ενασχόλησης μας με το [Kastoria Linux Team](https://www.facebook.com/Kastoria-Linux-Society-224822844196119/).
 
@@ -10,33 +10,39 @@
 Επιλέγουμε που θέλουμε να εγκαταστήσουμε το NS3 και σε αυτό το Directory τρέχουμε τις παρακάτω εντολές :
 
 ```bash
-$ git clone https://github.com/papayoda/ns3setup-bash.git
-$ cd ns3setup-bash
-$ sudo chmod 777 ns3setup.sh
-$ ./ns3setup.sh
+git clone https://github.com/papayoda/ns3setup-bash.git
+cd ns3setup-bash
+sudo chmod 777 ns3setup.sh
+./ns3setup.sh
+```
+[![asciicast](https://asciinema.org/a/405245.png)](https://asciinema.org/a/405245)
+
+## NetAnim στο WSL
+Χρειάζετε να είναι εγκατεστημένο το [vcxsrv](https://sourceforge.net/projects/vcxsrv/) και να τρέχει στο tray.
+```bash
+cd netanim-3.108
+./NetAnim
 ```
 
 ## Δομή εγκατάστασης
 ```
 .
-└── ns3
-    │   └── ns-3-allinone
-    |       ├── README
-    |       ├── __pycache__
-    |       ├── bake
-    |       ├── build.py
-    |       ├── constants.py
-    |       ├── dist.py
-    |       ├── download.py
-    |       ├── netanim
-    |       |   └── NetAnim
-    |       ├── ns-3-dev
-    |       |   └── waf
-    |       ├── pybindgen
-    |       └── util.py
-    └── tarballs
-        └──ns-allinone-3.30
-        
+
+└── ns-3-allinone
+    ├── README
+    ├── __pycache__
+    ├── bake
+    ├── build.py
+    ├── constants.py
+    ├── dist.py
+    ├── download.py
+    ├── netanim-3.108
+    |   └── NetAnim
+    ├── ns-3.30.1
+    |   └── waf
+    ├── pybindgen
+    └── util.py
+            
 940 directories, 9847 files
 ```
 
